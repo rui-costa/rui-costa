@@ -15,23 +15,8 @@ But life is not only about data, I also like to code 💻 and write 📝.
 
 You can find me all over the interwebs.
 
-<a href="https://twitter.com/ruitiagoblog">
-<img src="https://simpleicons.org/icons/twitter.svg" width="30px">
-</a>‏‏‎ ‎‏‏‎ ‎
-<a href="https://www.facebook.com/ruitiagoblog">
-<img src="https://simpleicons.org/icons/facebook.svg" width="30px">
-</a>‏‏‎ ‎‏‏‎ ‎
-<a href="https://www.instagram.com/ruitiagoblog"> 
-<img src="https://simpleicons.org/icons/instagram.svg" width="30px">
-</a>‏‏‎ ‎‏‏‎ ‎
 <a href="https://www.linkedin.com/in/costaruitiago/">
 <img src="https://simpleicons.org/icons/linkedin.svg" width="30px"> 
-</a>‏‏‎ ‎‏‏‎ ‎
-<a href="http://ruitiago.blog/">
-<img src="https://simpleicons.org/icons/wordpress.svg" width="30px">
-</a>‏‏‎ ‎‏‏‎ ‎
-<a href="mailto:hi@ruitiago.blog">
-<img src="https://simpleicons.org/icons/gmail.svg" width="30px">
 </a>
 
 >
@@ -41,20 +26,3 @@ And this is a some of the things *~~I´ve played~~* **I'm playing around with**.
 
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> ‎ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"><!-- Web development --> ‎<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> ‎<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"><!-- Databases -->‏‏‎ <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"><!-- Cloud --> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> <!-- Tools --> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 
- 
-
- 
-<!--
-**rui-costa/rui-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
